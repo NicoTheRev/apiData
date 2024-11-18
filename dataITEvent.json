@@ -1,0 +1,142 @@
+{
+  "usuarios": [
+    {
+      "id": "5ce9",
+      "username": "usuario1",
+      "email": "user@duocuc.cl",
+      "password": "duoc1234",
+      "nombre": "pepito",
+      "apellidos": "san martin",
+      "rut": "20592455-3",
+      "isactive": true
+    },
+    {
+      "id": "63ce",
+      "username": "lolo12",
+      "password": "lolo1234",
+      "email": "lolo@gmail.com",
+      "nombre": "lolo",
+      "apellidos": "san martin",
+      "rut": "20594569-7",
+      "isactive": true
+    }
+  ],
+  "imagenes": [],
+  "comentarios": [
+    {
+      "id": "a257",
+      "nombreEvento": "Torneo de futbol",
+      "usuario": "lolo12",
+      "comentario": "JEJE"
+    },
+    {
+      "id": "352b",
+      "nombreEvento": "Torneo de futbol",
+      "usuario": "lolo12",
+      "comentario": "Segundo comentario! "
+    },
+    {
+      "id": "f440",
+      "nombreEvento": "Concierto a puertas abiertas",
+      "usuario": "usuario5",
+      "comentario": "Primero comentario :)"
+    },
+    {
+      "id": "bb6b",
+      "nombreEvento": "Concierto a puertas abiertas",
+      "usuario": "usuario5",
+      "comentario": "ya falta menos jeje"
+    },
+    {
+      "id": "3a37",
+      "nombreEvento": "Concierto a puertas abiertas",
+      "usuario": "usuario5",
+      "comentario": "hola mun2"
+    },
+    {
+      "id": "8bad",
+      "nombreEvento": "Concierto a puertas abiertas",
+      "usuario": "lolo12",
+      "comentario": "que felicidad! "
+    },
+    {
+      "id": "536a",
+      "nombreEvento": "Concierto a puertas abiertas",
+      "usuario": "lolo12",
+      "comentario": "saludos a todos :)"
+    },
+    {
+      "id": "2448",
+      "nombreEvento": "Torneo de futbol",
+      "usuario": "lolo12",
+      "comentario": "Hola gente"
+    }
+  ],
+  "eventos": [
+    {
+      "nombreEvento": "Torneo de futbol",
+      "fecha": "2024-11-01",
+      "nombrePersona": "Juan Perez",
+      "RUT": "12588999-7",
+      "hora": "7:00 PM",
+      "id": "8757",
+      "src": "assets/futbol.webp"
+    },
+    {
+      "nombreEvento": "Concierto a puertas abiertas",
+      "fecha": "2024-11-10",
+      "nombrePersona": "Maria Lopez",
+      "RUT": "98765432-1",
+      "hora": "2:00 PM",
+      "id": "a49f",
+      "src": "assets/concierto.webp"
+    },
+    {
+      "nombreEvento": "Expo taller",
+      "fecha": "2024-11-20",
+      "nombrePersona": "Carlos Sanchez",
+      "RUT": "65432109-3",
+      "hora": "4:00 PM",
+      "id": "43a7",
+      "src": "assets/tuerca.jpg"
+    }
+  ],
+  "misEventos": [
+    {
+      "id": "5d02",
+      "src": "assets/futbol.webp",
+      "nombreEvento": "Torneo de futbol",
+      "fechaEvento": "2024-11-01",
+      "hora": "7:00 PM",
+      "username": "lolo12",
+      "nombre": "lolo",
+      "apellidos": "san martin",
+      "rut": "20594569",
+      "correo": "lolo@gmail.com"
+    },
+    {
+      "id": "e876",
+      "src": "assets/concierto.webp",
+      "nombreEvento": "Concierto a puertas abiertas",
+      "fechaEvento": "2024-11-10",
+      "hora": "2:00 PM",
+      "username": "lolo12",
+      "nombre": "lolo",
+      "apellidos": "san martin",
+      "rut": "20594569",
+      "correo": "lolo@gmail.com"
+    },
+    {
+      "id": "5296",
+      "src": "assets/tuerca.jpg",
+      "nombreEvento": "Expo taller",
+      "fechaEvento": "2024-11-20",
+      "hora": "4:00 PM",
+      "username": "lolo12",
+      "nombre": "lolo",
+      "apellidos": "san martin",
+      "rut": "20594569",
+      "correo": "lolo@gmail.com"
+    }
+  ]
+}
